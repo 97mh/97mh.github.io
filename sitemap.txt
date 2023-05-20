@@ -1,2 +1,4 @@
-http://example.com/2023/05/18/hello-world/
-http://example.com/
+http://97mh.net/2023/05/18/hello-world/
+http://97mh.net/tags/index.html
+http://97mh.net/categories/index.html
+http://97mh.net/
