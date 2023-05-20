@@ -4,9 +4,61 @@
   
     
     <entry>
+      <title>mysql-基础架构</title>
+      <link href="/2023/05/20/mysql-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84/"/>
+      <url>/2023/05/20/mysql-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> mysql </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mysql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>kafka-producer</title>
+      <link href="/2023/05/20/kafka/"/>
+      <url>/2023/05/20/kafka/</url>
+      
+        <content type="html"><![CDATA[<h3 id="jjjjjjjjjj"><a href="#jjjjjjjjjj" class="headerlink" title="jjjjjjjjjj"></a>jjjjjjjjjj</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> kafka </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 消息队列 </tag>
+            
+            <tag> 分布式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>首页</title>
-      <link href="/2023/05/18/hello-world/"/>
-      <url>/2023/05/18/hello-world/</url>
+      <link href="//index.html"/>
+      <url>//index.html</url>
       
         <content type="html"><![CDATA[<p>一个程序员的技术生涯, 记录成长的过程、学习的成果</p>]]></content>
       

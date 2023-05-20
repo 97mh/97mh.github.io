@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://97mh.net/2023/05/18/hello-world/</loc>
+    <loc>http://97mh.net//index.html</loc>
+    <lastmod>2023-05-20</lastmod>
+  </url>
+  <url>
+    <loc>http://97mh.net/2023/05/20/mysql-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84/</loc>
+    <lastmod>2023-05-20</lastmod>
+  </url>
+  <url>
+    <loc>http://97mh.net/2023/05/20/kafka/</loc>
     <lastmod>2023-05-20</lastmod>
   </url>
 </urlset> 
