@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://97mh.net//index.html</loc>
-    <lastmod>2023-05-20</lastmod>
+    <loc>http://97mh.net/2023/05/21/SpringCloud%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2023-05-23</lastmod>
   </url>
   <url>
-    <loc>http://97mh.net/2023/05/20/mysql-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84/</loc>
-    <lastmod>2023-05-20</lastmod>
-  </url>
-  <url>
-    <loc>http://97mh.net/2023/05/20/kafka/</loc>
-    <lastmod>2023-05-20</lastmod>
+    <loc>http://97mh.net/2023/05/20/SpringCloud%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2023-05-23</lastmod>
   </url>
 </urlset> 

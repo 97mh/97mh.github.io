@@ -2,34 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://97mh.net/index.html</loc>
+    <loc>http://97mh.net/2023/05/21/SpringCloud%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/</loc>
     
-    <lastmod>2023-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://97mh.net/2023/05/20/mysql-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84/</loc>
-    
-    <lastmod>2023-05-20</lastmod>
+    <lastmod>2023-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://97mh.net/2023/05/20/kafka/</loc>
+    <loc>http://97mh.net/2023/05/20/SpringCloud%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/</loc>
     
-    <lastmod>2023-05-20</lastmod>
+    <lastmod>2023-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://97mh.net/tags/index.html</loc>
+    <loc>http://97mh.net/SpringCloud%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/index.html</loc>
     
     <lastmod>2023-05-20</lastmod>
     
@@ -46,50 +37,54 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://97mh.net/category/index.html</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://97mh.net/tags/index.html</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://97mh.net/</loc>
-    <lastmod>2023-05-20</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://97mh.net/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
-    <lastmod>2023-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://97mh.net/tags/%E5%88%86%E5%B8%83%E5%BC%8F/</loc>
-    <lastmod>2023-05-20</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://97mh.net/tags/mysql/</loc>
-    <lastmod>2023-05-20</lastmod>
+    <loc>http://97mh.net/tags/RPC/</loc>
+    <lastmod>2023-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://97mh.net/tags/SpringCloud/</loc>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>http://97mh.net/categories/kafka/</loc>
-    <lastmod>2023-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://97mh.net/categories/mysql/</loc>
-    <lastmod>2023-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
